@@ -1,0 +1,65 @@
+
+/* universal selctor */
+*{
+    color: black important;
+    background-color: cbcbcb;
+    margin-top: 20px;
+}
+h1{
+    margin-top: -20px;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+table{
+    width: 100%;
+    border-width: 20px;
+}
+table, td{
+    border-collapse: collapse;
+    border: 2px solid rgb(141, 141, 141);
+}
+td{
+    width: 100px;
+    height: 50px;
+    padding: 5px 5px 5px 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center; 
+    font-weight:bold;
+}
+.wi{
+  margin-left:10%;
+  width:80%;
+}
+.w, .w>sup{
+    background-color:whitesmoke;
+}
+.y, .y>sup{
+    background-color:#fcdb18;
+}
+.v, .v>sup{
+    background-color: #7c67f0;  
+}
+.dy, .dy>sup{
+    background-color:#eab42e;
+}
+.g, .g>sup{
+    background-color: #269e58;
+}
+.br, .br>sup{ 
+    background-color: #b65729;
+}
+.dp, .dp>sup{
+    background-color: #df5ad2;
+}
+.od, .od>sup{
+    background-color: orangered;
+}
+.pl, .pl>sup{
+    background-color: #feb4c1;
+}
+.pp, .pp>sup{
+    background-color: #ff7c74;
+}
+.bl, .bl>sup{
+    background-color: #658eea;
+}
